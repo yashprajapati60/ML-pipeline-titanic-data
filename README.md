@@ -54,5 +54,7 @@ Install required libraries
 Run Titanic_Project_ML_Pipeline.ipynb
 
 ✨ Author
+
 Yash Prajapati
+
 M.Tech (Artificial Intelligence)
